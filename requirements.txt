@@ -1,0 +1,22 @@
+# Core data analysis libraries
+pandas           # Data manipulation and analysis (DataFrames)
+numpy            # Numerical computing and array operations
+
+# Data visualization
+matplotlib       # Basic plotting and charts
+seaborn          # Statistical data visualization built on matplotlib
+
+# Machine learning
+scikit-learn     # Machine learning algorithms and model evaluation
+
+# Notebook environment
+jupyter          # Interactive notebook environment
+notebook         # Jupyter notebook interface
+ipykernel        # Allows Python to run as a kernel in Jupyter
+
+# API and web requests
+requests         # Retrieve data from APIs and web services
+
+# Data handling utilities
+python-dateutil  # Date parsing and time handling
+pytz             # Timezone handling for datetime objects
