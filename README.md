@@ -23,4 +23,4 @@ This repository contains my coursework, notes, and projects for the Healthfirst 
 - `data/` — datasets used in coursework (when allowed)
 
 ## Tools
-Python, Jupyter, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn (as needed).
+Python, Jupyter, Pandas, NumPy, Matplotlib, Seaborn, scikit-learn.
