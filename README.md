@@ -1,4 +1,4 @@
-# Healthfirst Data Analytics Academy (Cohort 6) — 2026
+# Healthfirst Data Analytics Academy (Cohort 6) 2025 — 2026
 
 This repository contains my coursework, notes, and projects for the Healthfirst Data Analytics Academy.
 
